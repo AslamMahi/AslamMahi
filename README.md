@@ -52,9 +52,9 @@ Identified critical vulnerabilities including outdated software, weak passwords,
 
 | CVE ID                                   | Vulnerability Type                        | Status    |
 |------------------------------------------|-------------------------------------------|-----------|
-| [CVE-2024-36597](https://github.com/kaliankhe/CVE-Aslam-mahi/blob/9ec0572c68bfd3708a7d6e089181024131f4e927/vendors/projectworlds.in/AEGON%20LIFE%20v1.0%20Life%20Insurance%20Management%20System/CVE-2024-36597) | SQL injection vulnerability              | Approved  |
-| [CVE-2024-36598](https://github.com/kaliankhe/CVE-Aslam-mahi/blob/9ec0572c68bfd3708a7d6e089181024131f4e927/vendors/projectworlds.in/AEGON%20LIFE%20v1.0%20Life%20Insurance%20Management%20System/CVE-2024-36598) | Unauthenticated Remote Code Execution                             | Approved  |
-| [CVE-2024-36599](https://github.com/kaliankhe/CVE-Aslam-mahi/blob/9ec0572c68bfd3708a7d6e089181024131f4e927/vendors/projectworlds.in/AEGON%20LIFE%20v1.0%20Life%20Insurance%20Management%20System/CVE-2024-36599) | Stored cross-site scripting (XSS)            | Approved  |
+| [CVE-2024-36597](https://github.com/AslamMahi/CVE-Aslam-Mahi/blob/main/AEGON%20LIFE%20v1.0%20Life%20Insurance%20Management%20System/CVE-2024-36597) | SQL injection vulnerability              | Approved  |
+| [CVE-2024-36598](https://github.com/AslamMahi/CVE-Aslam-Mahi/blob/main/AEGON%20LIFE%20v1.0%20Life%20Insurance%20Management%20System/CVE-2024-36598) | Unauthenticated Remote Code Execution                             | Approved  |
+| [CVE-2024-36599](https://github.com/AslamMahi/CVE-Aslam-Mahi/blob/main/AEGON%20LIFE%20v1.0%20Life%20Insurance%20Management%20System/CVE-2024-36599) | Stored cross-site scripting (XSS)            | Approved  |
 
 
 ## 🏆 GitHub Streak
