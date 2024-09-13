@@ -32,19 +32,18 @@
 | MCP      | [Microsoft Certified Professional](https://trainingsupport.microsoft.com/en-us/mcp/forum/all/about-microsoft-certified-professional-mcp/91d47cac-31e2-42f1-9cb9-54c533fcf69d)            | <img src="https://github.com/AslamMahi/AslamMahi/blob/main/assets/MCP.png" alt="MCP" width="75" height="75"/> |
 | ITIL      | [Information Technology Infrastructure Library V3](https://www.axelos.com/certifications/itil-service-management/itil-4-foundation)            | <img src="https://github.com/AslamMahi/AslamMahi/blob/main/assets/ITIL V3.png" alt="CITIL V3" width="75" height="75"/> |
 
-## Skills 🌐
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-
 ## Projects 🚀
-- [Github](https://aslsec.github.io)
+
+| Description                                         | Associated Project Links        |
+|-----------------------------------------------|----------------------------|
+| Threat-Detection-and-Response-Lab          | <a href="https://github.com/AslamMahi/Threat-Detection-and-Response-Lab">Detection Lab</a>|
+| HoneyLogix_HoneyPot | <a href="https://github.com/AslamMahi/HoneyLogix_HoneyPot">HoneyPot</a>|
+| WiFi-Pentesting         | <a href="https://github.com/AslamMahi/WiFi-Pentesting">WiFi-Pentesting</a>|
+
+
+## Live Website 🌐
+
+- [Github](https://aslammahi.github.io/)
 
 ## 🛡️ CVEs
 
@@ -55,6 +54,8 @@ Identified critical vulnerabilities including outdated software, weak passwords,
 | [CVE-2024-36597](https://github.com/AslamMahi/CVE-Aslam-Mahi/blob/main/AEGON%20LIFE%20v1.0%20Life%20Insurance%20Management%20System/CVE-2024-36597) | SQL injection vulnerability              | Approved  |
 | [CVE-2024-36598](https://github.com/AslamMahi/CVE-Aslam-Mahi/blob/main/AEGON%20LIFE%20v1.0%20Life%20Insurance%20Management%20System/CVE-2024-36598) | Unauthenticated Remote Code Execution                             | Approved  |
 | [CVE-2024-36599](https://github.com/AslamMahi/CVE-Aslam-Mahi/blob/main/AEGON%20LIFE%20v1.0%20Life%20Insurance%20Management%20System/CVE-2024-36599) | Stored cross-site scripting (XSS)            | Approved  |
+| [CVE-2024-44727](https://github.com/AslamMahi/CVE-Aslam-Mahi/blob/main/Sourcecodehero%20Event%20Management%20System/CVE-2024-44727.MD) | SQL injection vulnerability              | Approved  |
+| [CVE-2024-44728](https://github.com/AslamMahi/CVE-Aslam-Mahi/blob/main/Sourcecodehero%20Event%20Management%20System/CVE-2024-44728.md) | Stored Cross-Site Scripting                             | Approved  |
 
 
 ## 🏆 GitHub Streak
