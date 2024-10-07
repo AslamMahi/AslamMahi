@@ -51,6 +51,8 @@ Identified critical vulnerabilities including outdated software, weak passwords,
 
 | CVE ID                                   | Vulnerability Type                        | Status    |
 |------------------------------------------|-------------------------------------------|-----------|
+| [CVE-2024-45932](https://github.com/AslamMahi/CVE-Aslam-Mahi/blob/main/Laravel%20CRM%20v1.3.0/CVE-2024-45932.md) | Stored Cross-Site Scripting              | Reserved  |
+| [CVE-2024-45933](https://github.com/AslamMahi/CVE-Aslam-Mahi/blob/main/MobinaJafarian-OnlineNewsSite%20v%201.0/CVE-2024-45933.md) | Stored Cross-Site Scripting              | Reserved  |
 | [CVE-2024-36597](https://github.com/AslamMahi/CVE-Aslam-Mahi/blob/main/AEGON%20LIFE%20v1.0%20Life%20Insurance%20Management%20System/CVE-2024-36597) | SQL injection vulnerability              | Approved  |
 | [CVE-2024-36598](https://github.com/AslamMahi/CVE-Aslam-Mahi/blob/main/AEGON%20LIFE%20v1.0%20Life%20Insurance%20Management%20System/CVE-2024-36598) | Unauthenticated Remote Code Execution                             | Approved  |
 | [CVE-2024-36599](https://github.com/AslamMahi/CVE-Aslam-Mahi/blob/main/AEGON%20LIFE%20v1.0%20Life%20Insurance%20Management%20System/CVE-2024-36599) | Stored cross-site scripting (XSS)            | Approved  |
